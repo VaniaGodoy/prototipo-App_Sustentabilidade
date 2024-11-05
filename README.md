@@ -22,4 +22,8 @@ Desenvolvemos o app Eco Connect para o descarte correto de embalagens de maquiag
 Confira o nosso protótipo: 
 https://lnkd.in/dJcEi4DX
 
+## Captura de Tela
+
+![Captura de tela](imagem-App-Sustentabilidade.png)
+
 hashtag#UXDesign hashtag#UIDesign hashtag#DesignThinking hashtag#Figma hashtag#CODEARFUTURA hashtag#UserExperience hashtag#UserInterface
